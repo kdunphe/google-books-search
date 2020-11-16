@@ -4,7 +4,7 @@
 
 <h2>Overview</h2>
 
-**Deployed Site:** https://kdunphe.github.io/react-portfolio/
+**Deployed Site:** https://kd-google-books.herokuapp.com/
 
 **Technologies Used:** React, React Bootstrap, React Router Dom, Mongoose, MongoDB, Axios, Express, Node, JavaScript, Heroku, HTML, CSS
 
